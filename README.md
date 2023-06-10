@@ -17,5 +17,6 @@
  readexp.php是讀取續期時間的示例
 ### 部署
 直接部署在支持PHP的服務器上，注意前端的鏈接地址
-
+### 效果圖
+![xiaoguo](https://mocikate.eu.org/upload/image-ympj.png)
 ## 更多内容，請關注[博文](https://mocikate.eu.org "雨絲部落格")
